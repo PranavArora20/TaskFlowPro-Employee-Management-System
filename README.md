@@ -7,7 +7,7 @@ TaskFlow Pro is a modern, intelligent employee management system designed to str
 Frontend
 
 ## Deployed App
-[Frontend](https://tourmaline-sundae-48e909.netlify.app/)
+[Frontend](https://taskflowpero.netlify.app/)
 
 ## Directory Structure
 ```
