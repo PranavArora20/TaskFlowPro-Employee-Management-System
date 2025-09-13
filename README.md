@@ -100,7 +100,7 @@ npm run build
 - **No External APIs**: This is a frontend-only application that uses localStorage for data persistence
 - **Browser APIs**: Utilizes localStorage API for data storage and retrieval
 
-
+ 
 ## Technology Stack
 - **Frontend Framework**: React 18 with JSX
 - **Build Tool**: Vite
