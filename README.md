@@ -76,7 +76,7 @@ npm run dev
 # Build for production
 npm run build
 ```
-
+ 
 ## Usage
 1. **Login**: Use provided credentials to access the system
 2. **Admin Access**: View all employees, task statistics, and create new tasks
